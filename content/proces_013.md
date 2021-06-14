@@ -1,5 +1,5 @@
-Kapitola osmá: Obchodník Block – Výpověď advokátovi 
-title: ""
+---
+title: "Kapitola osmá: Obchodník Block – Výpověď advokátovi"
 ---
 
 Kapitola osmá

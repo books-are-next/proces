@@ -9,8 +9,6 @@ meta:
   published: 2021
   keywords: []
 chapters:
-  - proces_001.html
-  - proces_002.html
   - proces_003.html
   - proces_004.html
   - proces_005.html

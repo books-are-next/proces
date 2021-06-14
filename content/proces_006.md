@@ -1,11 +1,10 @@
 ---
-title: ""
+title: "Kapitola první: Zatčení – Rozmluva s paní Grubachovou – Pak slečna Bürstnerová"
 ---
 
-Kapitola první
 
-Zatčení – Rozmluva s paní Grubachovou –  
-Pak slečna Bürstnerová
+
+
 
 Patrně učinil někdo na Josefa K. křivé udání, neboť byl, aniž se dopustil něčeho zlého, jednou ráno zatčen.
 Kuchařka paní Grubachové, jeho bytné, která mu každý den ráno kolem osmé přinášela snídani, tentokrát nepřišla.

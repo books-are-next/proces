@@ -1,0 +1,541 @@
+{
+  "author": "Franz Kafka",
+  "keywords": [],
+  "published": 2021,
+  "title": "Proces",
+  "identifier": "kafka-proces-2021-a1c3ec4",
+  "revision": "a1c3ec4",
+  "generatedAt": {
+    "date": "Thu Jun 17 2021 22:31:36 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1623969096742
+  },
+  "documents": [
+    {
+      "title": "Next-book boilerplate",
+      "file": "index.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "index",
+      "order": null,
+      "next": "proces_003.html",
+      "toc": []
+    },
+    {
+      "title": "",
+      "file": "proces_003.html",
+      "words": 6,
+      "chars": 38,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "proces_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "proces_004.html",
+      "words": 88,
+      "chars": 576,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 1,
+      "prev": "proces_003.html",
+      "next": "proces_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "proces_005.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 2,
+      "prev": "proces_004.html",
+      "next": "proces_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola první: Zatčení – Rozmluva s paní Grubachovou – Pak slečna Bürstnerová",
+      "file": "proces_006.html",
+      "words": 8347,
+      "chars": 48330,
+      "ideas": 450,
+      "role": "chapter",
+      "order": 3,
+      "prev": "proces_005.html",
+      "next": "proces_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola první: Zatčení – Rozmluva s paní Grubachovou – Pak slečna Bürstnerová",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola druhá: První vyšetřování",
+      "file": "proces_007.html",
+      "words": 4714,
+      "chars": 27536,
+      "ideas": 214,
+      "role": "chapter",
+      "order": 4,
+      "prev": "proces_006.html",
+      "next": "proces_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola druhá: První vyšetřování",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola třetí: V prázdné zasedací síni – Student – Kanceláře",
+      "file": "proces_008.html",
+      "words": 7068,
+      "chars": 40472,
+      "ideas": 360,
+      "role": "chapter",
+      "order": 5,
+      "prev": "proces_007.html",
+      "next": "proces_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola třetí: V prázdné zasedací síni – Student – Kanceláře",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola čtvrtá: Přítelkyně slečny Bürstnerové",
+      "file": "proces_009.html",
+      "words": 2292,
+      "chars": 13307,
+      "ideas": 123,
+      "role": "chapter",
+      "order": 6,
+      "prev": "proces_008.html",
+      "next": "proces_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola čtvrtá: Přítelkyně slečny Bürstnerové",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola pátá: Mrskač",
+      "file": "proces_010.html",
+      "words": 1955,
+      "chars": 11348,
+      "ideas": 97,
+      "role": "chapter",
+      "order": 7,
+      "prev": "proces_009.html",
+      "next": "proces_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola pátá: Mrskač",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola šestá: Strýček – Lenka",
+      "file": "proces_011.html",
+      "words": 6165,
+      "chars": 35786,
+      "ideas": 323,
+      "role": "chapter",
+      "order": 8,
+      "prev": "proces_010.html",
+      "next": "proces_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola šestá: Strýček – Lenka",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola sedmá: Advokát – Továrník – Malíř",
+      "file": "proces_012.html",
+      "words": 14604,
+      "chars": 85635,
+      "ideas": 730,
+      "role": "chapter",
+      "order": 9,
+      "prev": "proces_011.html",
+      "next": "proces_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola sedmá: Advokát – Továrník – Malíř",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola osmá: Obchodník Block – Výpověď advokátovi",
+      "file": "proces_013.html",
+      "words": 9176,
+      "chars": 52617,
+      "ideas": 546,
+      "role": "chapter",
+      "order": 10,
+      "prev": "proces_012.html",
+      "next": "proces_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola osmá: Obchodník Block – Výpověď advokátovi",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola devátá: V chrámu",
+      "file": "proces_014.html",
+      "words": 6913,
+      "chars": 40171,
+      "ideas": 347,
+      "role": "chapter",
+      "order": 11,
+      "prev": "proces_013.html",
+      "next": "proces_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola devátá: V chrámu",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kapitola desátá: Konec",
+      "file": "proces_015.html",
+      "words": 1574,
+      "chars": 9065,
+      "ideas": 82,
+      "role": "chapter",
+      "order": 12,
+      "prev": "proces_014.html",
+      "next": "proces_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kapitola desátá: Konec",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dodatky",
+      "file": "proces_016.html",
+      "words": 3,
+      "chars": 23,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 13,
+      "prev": "proces_015.html",
+      "next": "proces_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dodatky",
+          "id": "chunk1",
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "title: “Dodatky”",
+              "id": "title-dodatky",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "I: Nedokončené kapitoly",
+      "file": "proces_017.html",
+      "words": 7,
+      "chars": 55,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 14,
+      "prev": "proces_016.html",
+      "next": "proces_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "I: Nedokončené kapitoly",
+          "id": "chunk1",
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "title: “I: Nedokončené kapitoly”",
+              "id": "title-i-nedokončené-kapitoly",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "K Else",
+      "file": "proces_018.html",
+      "words": 410,
+      "chars": 2373,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 15,
+      "prev": "proces_017.html",
+      "next": "proces_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "K Else",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Cesta k matce",
+      "file": "proces_019.html",
+      "words": 1044,
+      "chars": 6076,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 16,
+      "prev": "proces_018.html",
+      "next": "proces_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Cesta k matce",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Státní zástupce[2](#footnote-10773-2)",
+      "file": "proces_020.html",
+      "words": 1773,
+      "chars": 10547,
+      "ideas": 64,
+      "role": "chapter",
+      "order": 17,
+      "prev": "proces_019.html",
+      "next": "proces_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Státní zástupce2",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dům",
+      "file": "proces_021.html",
+      "words": 1285,
+      "chars": 7574,
+      "ideas": 49,
+      "role": "chapter",
+      "order": 18,
+      "prev": "proces_020.html",
+      "next": "proces_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dům",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Boj s náměstkem ředitele",
+      "file": "proces_022.html",
+      "words": 1404,
+      "chars": 8397,
+      "ideas": 53,
+      "role": "chapter",
+      "order": 19,
+      "prev": "proces_021.html",
+      "next": "proces_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Boj s náměstkem ředitele",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ryvek",
+      "file": "proces_023.html",
+      "words": 1,
+      "chars": 5,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 20,
+      "prev": "proces_022.html",
+      "next": "proces_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ryvek",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "II: Místa škrtnutá autorem",
+      "file": "proces_024.html",
+      "words": 9,
+      "chars": 61,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 21,
+      "prev": "proces_023.html",
+      "next": "proces_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "II: Místa škrtnutá autorem",
+          "id": "chunk1",
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "title: “II: Místa škrtnutá autorem”",
+              "id": "title-ii-místa-škrtnutá-autorem",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "proces_025.html",
+      "words": 1333,
+      "chars": 7787,
+      "ideas": 73,
+      "role": "chapter",
+      "order": 22,
+      "prev": "proces_024.html",
+      "next": "proces_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "proces_026.html",
+      "words": 49,
+      "chars": 311,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 23,
+      "prev": "proces_025.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 70220,
+      "chars": 408090,
+      "ideas": 3601
+    },
+    "chapters": {
+      "words": 70220,
+      "chars": 408090,
+      "ideas": 3601
+    }
+  }
+}

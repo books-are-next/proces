@@ -1,10 +1,6 @@
 ---
-title: ""
+title: "Kapitola devátá: V chrámu"
 ---
-
-Kapitola devátá
-
-V chrámu
 
 K. byl pověřen, aby ukázal některé umělecké památky italskému zákazníku, na němž bance velice záleželo a který byl v tomto městě poprvé.
 Jindy by si určitě pokládal za čest, že ho tím pověřili, teď však, kdy dovedl uhájit svou vážnost v bance už jen s velkou námahou, to přijal s nechutí.

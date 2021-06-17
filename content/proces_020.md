@@ -1,8 +1,6 @@
 ---
-title: ""
+title: "Státní zástupce[2](#footnote-10773-2)"
 ---
-
-Státní zástupce[2](#footnote-10773-2)
 
 I když K. získal za tu dlouhou dobu, co sloužil v bance, hodně zkušeností, takže se vyznal v lidech i ve světě, přece mu vždy připadalo, že si společnost, s níž se pravidelně scházel u stálého stolu v hostinci, zaslouží zvláštní úcty, a nikdy si nezapíral, že je pro něho velkou ctí, náleží-li k takové společnosti.
 Skládala se téměř výhradně ze soudců, státních zástupců a advokátů, smělo sem i několik mladičkých úředníků a advokátních koncipientů, sedávali však docela dole na samém konci stolu a směli se do rozmluvy vmísit jen tehdy, obrátil-li se někdo na ně zvláštní otázkou.

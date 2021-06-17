@@ -2,10 +2,6 @@
 title: "Kapitola osmá: Obchodník Block – Výpověď advokátovi"
 ---
 
-Kapitola osmá
-
-Obchodník Block – Výpověď advokátovi
-
 Konečně se K. přece jen rozhodl, že advokátovi odejme zastupování ve své věci.
 Pochybnosti, zda jedná správně, nedaly se sice zcela umlčet, ale převahy nabylo přesvědčení, že nelze jinak.
 V den, kdy chtěl zajít k advokátovi, stálo ho to rozhodnutí hodně sil, které potřeboval k práci, pracoval zvlášť pomalu, musel velmi dlouho zůstat v kanceláři a bylo už víc než deset hodin večer, když konečně stál před advokátovými dveřmi.

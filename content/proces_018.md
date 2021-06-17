@@ -1,8 +1,6 @@
 ---
-title: ""
+title: "K Else"
 ---
-
-K Else
 
 Jednoho dne, když se K. právě chystal odejít, zazvonil telefon a K.
 byl vyzván, aby ihned přišel do soudní kanceláře.

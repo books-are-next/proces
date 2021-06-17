@@ -1,8 +1,6 @@
 ---
-title: ""
+title: "Boj s náměstkem ředitele"
 ---
-
-Boj s náměstkem ředitele
 
 Jednou ráno cítil se K. mnohem svěžejší a odolnější než jindy.
 Na soud si sotva vzpomněl; napadl-li ho však, zdálo se mu, že by hravě dokázal popadnout, vyrvat a rozbít celou tu nepřehlednou velkou organizaci, jen kdyby měl nějakou všem skrytou rukojeť, kterou by bylo třeba nejdříve nahmátnout v temnotách.

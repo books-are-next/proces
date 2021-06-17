@@ -1,10 +1,6 @@
 ---
-title: ""
+title: "Kapitola šestá: Strýček – Lenka"
 ---
-
-Kapitola šestá
-
-Strýček – Lenka
 
 Jednou odpoledne – bylo právě před uzávěrkou pošty a K.
 měl spoustu práce – vtlačil se do pokoje mezi dvěma sluhy, kteří přinášeli spisy, strýček Karel, malý venkovský statkář.

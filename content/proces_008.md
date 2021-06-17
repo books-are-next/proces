@@ -1,12 +1,6 @@
 ---
-title: ""
+title: "Kapitola třetí: V prázdné zasedací síni – Student – Kanceláře"
 ---
-
-Kapitola třetí
-
-V prázdné zasedací síni – Student –
-
-Kanceláře
 
 V příštím týdnu čekal K. na opětné vyrozumění den co den, nemohl uvěřit, že by soud tak doslova přistoupil na jeho prohlášení, že se vzdává výslechů, a když očekávané vyrozumění až do soboty večer opravdu nepřišlo, předpokládal, že je mlčky obeslán do téhož domu na touž dobu.
 Odebral se tam tedy v neděli znovu, šel tentokrát přímo po schodech a chodbách; několik lidí, kteří si ho pamatovali, ho pozdravilo u svých dveří, nemusel se však nikoho ptát a dostal se brzo ke správným dveřím.

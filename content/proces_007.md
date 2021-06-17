@@ -3,6 +3,7 @@ title: "Kapitola druhá: První vyšetřování"
 ---
 
 K. byl telefonicky vyrozuměn, že se příští neděli bude v jeho záležitosti konat jakési předběžné vyšetřování.
+
 Chtějí ho prý upozornit, že tato vyšetřování budou následovat za sebou pravidelně, i když snad ne každý týden, tedy přece dost často.
 Jednak je prý v obecném zájmu, aby proces byl rychle skoncován, jednak ale musí být vyšetřování po každé stránce důkladné, a přece vzhledem k námaze s tím spojené nesmí nikdy trvat příliš dlouho.
 Proto že se zvolilo východisko vyšetřovat rychle po sobě, ale krátce.

@@ -1,8 +1,6 @@
 ---
-title: ""
+title: "ryvek"
 ---
-
-Úryvek
 
 Když vyšli z divadla, mrholilo.
 K. byl už unaven divadelní hrou a špatným provedením, ale jak si pomyslel, že má u sebe mít strýčka přes noc, byl z toho celý skleslý.

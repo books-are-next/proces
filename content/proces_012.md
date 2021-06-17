@@ -1,10 +1,6 @@
 ---
-title: ""
+title: "Kapitola sedmá: Advokát – Továrník – Malíř"
 ---
-
-Kapitola sedmá
-
-Advokát – Továrník – Malíř
 
 Jednoho zimního dopoledne – venku bylo pošmourno a padal sníh – seděl K. ve své kanceláři už velmi unaven, ačkoli bylo ještě brzy.
 Aby se zbavil aspoň nižších úředníků, přikázal sluhovi už před chvílí, aby nikoho z nich nevpouštěl, že je zaměstnán jakousi větší prací.

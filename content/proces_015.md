@@ -1,10 +1,6 @@
 ---
-title: ""
+title: "Kapitola desátá: Konec"
 ---
-
-Kapitola desátá
-
-Konec
 
 V předvečer jeho jedenatřicátých narozenin – bylo asi devět hodin večer, doba, kdy ulice ztichly – přišli ke K. do bytu dva páni.
 V šosatých kabátech, bledí a otylí, s cylindry, jež byly jako přirostlé k hlavě.

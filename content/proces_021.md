@@ -1,8 +1,6 @@
 ---
-title: ""
+title: "Dům"
 ---
-
-Dům
 
 I když tím zprvu nesledoval žádný určitý smysl, snažil se K. při různých příležitostech vyzvědět, kde má sídlo úřad, od něhož přišlo první udání v jeho věci.
 Dověděl se to bez nesnází, jak Titorelli, tak i Wolfahrt mu řekli přesné číslo domu, hned jak se jich dotázal.

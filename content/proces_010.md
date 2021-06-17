@@ -1,10 +1,6 @@
 ---
-title: ""
+title: "Kapitola pátá: Mrskač"
 ---
-
-Kapitola pátá
-
-Mrskač
 
 Když K. jednoho z příštích večerů procházel chodbou, která oddělovala jeho kancelář od hlavního schodiště – tentokrát šel domů skoro poslední, jen v expedici pracovali ještě dva sluhové v malém kuželu světla jediné žárovky –, uslyšel vzdychání za dveřmi, za nimiž zřejmě bývala vždy jen komora na staré haraburdí, kterou však K. dosud nikdy neviděl.
 Zastavil se udiveně a ještě jednou pozorně poslouchal, aby zjistil, zda se nemýlí – na chvilku všechno utichlo, potom se však znovu ozvaly vzdechy. – Chtěl nejdřív dojít pro některého sluhu, třeba by mohl potřebovat svědka, potom však se ho zmocnila taková nezkrotná zvědavost, že rázem dveře otevřel.

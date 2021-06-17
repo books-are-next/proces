@@ -1,6 +1,3 @@
 ---
-title: ""
+title: "II: Místa škrtnutá autorem"
 ---
-
-II  
-Místa škrtnutá autorem

@@ -1,6 +1,3 @@
 ---
-title: ""
+title: "I: Nedokončené kapitoly"
 ---
-
-I  
-Nedokončené kapitoly

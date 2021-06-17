@@ -1,8 +1,6 @@
 ---
-title: ""
+title: "Cesta k matce"
 ---
-
-Cesta k matce
 
 Najednou ho u oběda napadlo, že si zajede k matce.
 Jaro teď už téměř skončilo a tím i třetí rok, co ji neviděl.

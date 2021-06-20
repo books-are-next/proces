@@ -3,11 +3,11 @@
   "keywords": [],
   "published": 2021,
   "title": "Proces",
-  "identifier": "kafka-proces-2021-d58df66",
-  "revision": "d58df66",
+  "identifier": "kafka-proces-2021-0017a82",
+  "revision": "0017a82",
   "generatedAt": {
-    "date": "Sun Jun 20 2021 13:40:11 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1624196411839
+    "date": "Sun Jun 20 2021 13:51:22 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1624197082702
   },
   "documents": [
     {
@@ -24,8 +24,8 @@
     {
       "title": "",
       "file": "proces_003.html",
-      "words": 6,
-      "chars": 38,
+      "words": 8,
+      "chars": 45,
       "ideas": 3,
       "role": "chapter",
       "order": 0,
@@ -38,29 +38,6 @@
           "name": "",
           "id": "chunk1",
           "children": []
-        },
-        {
-          "index": 1,
-          "level": 1,
-          "name": "Proces",
-          "id": "proces",
-          "children": [
-            {
-              "index": 2,
-              "level": 2,
-              "name": "Franz Kafka",
-              "id": "franz-kafka",
-              "children": [
-                {
-                  "index": 3,
-                  "level": 3,
-                  "name": "PřeLožil Pavel Eisner",
-                  "id": "přeložil-pavel-eisner",
-                  "children": []
-                }
-              ]
-            }
-          ]
         }
       ]
     },
@@ -551,13 +528,13 @@
   ],
   "totals": {
     "all": {
-      "words": 70220,
-      "chars": 408090,
+      "words": 70222,
+      "chars": 408097,
       "ideas": 3601
     },
     "chapters": {
-      "words": 70220,
-      "chars": 408090,
+      "words": 70222,
+      "chars": 408097,
       "ideas": 3601
     }
   }

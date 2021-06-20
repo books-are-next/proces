@@ -3,11 +3,11 @@
   "keywords": [],
   "published": 2021,
   "title": "Proces",
-  "identifier": "kafka-proces-2021-af52183",
-  "revision": "af52183",
+  "identifier": "kafka-proces-2021-d58df66",
+  "revision": "d58df66",
   "generatedAt": {
-    "date": "Sun Jun 20 2021 13:37:29 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1624196249360
+    "date": "Sun Jun 20 2021 13:40:11 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1624196411839
   },
   "documents": [
     {
@@ -38,6 +38,29 @@
           "name": "",
           "id": "chunk1",
           "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "Proces",
+          "id": "proces",
+          "children": [
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Franz Kafka",
+              "id": "franz-kafka",
+              "children": [
+                {
+                  "index": 3,
+                  "level": 3,
+                  "name": "PřeLožil Pavel Eisner",
+                  "id": "přeložil-pavel-eisner",
+                  "children": []
+                }
+              ]
+            }
+          ]
         }
       ]
     },

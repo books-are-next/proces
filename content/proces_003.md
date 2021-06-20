@@ -2,8 +2,8 @@
 title: ""
 ---
 
-<p style="text-align: center;"> # Proces </p>
+# Proces 
 
-<p style="text-align: center;"> ## Franz Kafka </p>
+## Franz Kafka 
 
-<p style="text-align: center;"> *Přeložil Pavel Eisner* </p>
+*Přeložil Pavel Eisner*

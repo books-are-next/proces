@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Místa škrtnutá autorem"
 ---
 
 \[1\] Zdá se, že se výslech omezuje na pohledy, pomyslel si K, chvilku mu to dovolím.

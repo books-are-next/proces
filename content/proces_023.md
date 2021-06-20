@@ -1,5 +1,5 @@
 ---
-title: "ryvek"
+title: "Úryvek"
 ---
 
 Když vyšli z divadla, mrholilo.

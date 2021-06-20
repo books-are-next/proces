@@ -6,4 +6,4 @@ title: ""
 
 <p style="text-align: center;">## Franz Kafka</p>
 
-<p style="text-align: center;">*PřeLožil Pavel Eisner*</p>
+<p style="text-align: center;">*Přeložil Pavel Eisner*</p>

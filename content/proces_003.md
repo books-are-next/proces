@@ -2,8 +2,8 @@
 title: ""
 ---
 
-#Proces#
+Proces
 
-##Franz Kafka##
+Franz Kafka
 
 *Přeložil Pavel Eisner*

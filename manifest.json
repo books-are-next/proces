@@ -3,11 +3,11 @@
   "keywords": [],
   "published": 2021,
   "title": "Proces",
-  "identifier": "kafka-proces-2021-e462f91",
-  "revision": "e462f91",
+  "identifier": "kafka-proces-2021-70391de",
+  "revision": "70391de",
   "generatedAt": {
-    "date": "Sun Jun 20 2021 14:05:20 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1624197920929
+    "date": "Sun Jun 20 2021 14:08:15 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1624198095876
   },
   "documents": [
     {
@@ -59,9 +59,9 @@
     {
       "title": "",
       "file": "proces_004.html",
-      "words": 88,
-      "chars": 576,
-      "ideas": 8,
+      "words": 87,
+      "chars": 575,
+      "ideas": 7,
       "role": "chapter",
       "order": 1,
       "prev": "proces_003.html",
@@ -543,14 +543,14 @@
   ],
   "totals": {
     "all": {
-      "words": 70222,
-      "chars": 408091,
-      "ideas": 3602
+      "words": 70221,
+      "chars": 408090,
+      "ideas": 3601
     },
     "chapters": {
-      "words": 70222,
-      "chars": 408091,
-      "ideas": 3602
+      "words": 70221,
+      "chars": 408090,
+      "ideas": 3601
     }
   }
 }

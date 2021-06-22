@@ -1,6 +1,8 @@
 ---
-title: "Kapitola třetí: V prázdné zasedací síni – Student – Kanceláře"
+title: Kapitola třetí
 ---
+
+> V prázdné zasedací síni – Student – Kanceláře
 
 V příštím týdnu čekal K. na opětné vyrozumění den co den, nemohl uvěřit, že by soud tak doslova přistoupil na jeho prohlášení, že se vzdává výslechů, a když očekávané vyrozumění až do soboty večer opravdu nepřišlo, předpokládal, že je mlčky obeslán do téhož domu na touž dobu.
 Odebral se tam tedy v neděli znovu, šel tentokrát přímo po schodech a chodbách; několik lidí, kteří si ho pamatovali, ho pozdravilo u svých dveří, nemusel se však nikoho ptát a dostal se brzo ke správným dveřím.
@@ -114,7 +116,7 @@ Jak by ho mohla polapit? Nezůstal by vždycky natolik svobodný, že by mohl ce
 A snad by nebylo lepší pomsty na vyšetřujícím soudci a jeho společnících, než kdyby jim vzal tuto ženu a přivlastnil si ji.
 Mohlo by se pak jednou přihodit, že by vyšetřující soudce po namáhavém spisování lživých zpráv o K.
 našel pozdě v noci postel té ženy prázdnou.
-A prázdnou proto, že by náležela K., že by ta žena u okna, to bujné, pružné, teplé tělo v tmavých šatech z hrubé těžké látky náleželo jen a jen K. 
+A prázdnou proto, že by náležela K., že by ta žena u okna, to bujné, pružné, teplé tělo v tmavých šatech z hrubé těžké látky náleželo jen a jen K.
 Když se takto zhostil námitek proti ženě, začal mu být tichý rozhovor u okna příliš dlouhý, a tak zaklepal na pódium kotníky prstů a potom i pěstí.
 Student pohlédl přes ženino rameno krátce na K., nedal se však rušit, dokonce se k ženě přitiskl ještě úžeji a objal ji.
 Sklonila hluboko hlavu, jako by ho pozorně poslouchala, a když se sehnula, políbil ji zvučně na krk a skoro přitom ani nepřestával mluvit.

@@ -1,6 +1,8 @@
 ---
-title: "Kapitola čtvrtá: Přítelkyně slečny Bürstnerové"
+title: Kapitola čtvrtá
 ---
+
+> Přítelkyně slečny Bürstnerové
 
 V nejbližší době se K. nepodařilo promluvit se slečnou Bürstnerovou ani několik slov.
 Pokoušel se všemožně, aby se k ní dostal, ona však tomu dovedla vždy zabránit.

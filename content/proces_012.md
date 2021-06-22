@@ -1,6 +1,8 @@
 ---
-title: "Kapitola sedmá: Advokát – Továrník – Malíř"
+title: Kapitola sedmá
 ---
+
+> Advokát – Továrník – Malíř
 
 Jednoho zimního dopoledne – venku bylo pošmourno a padal sníh – seděl K. ve své kanceláři už velmi unaven, ačkoli bylo ještě brzy.
 Aby se zbavil aspoň nižších úředníků, přikázal sluhovi už před chvílí, aby nikoho z nich nevpouštěl, že je zaměstnán jakousi větší prací.
@@ -139,7 +141,7 @@ Zavládlo naprosté mlčení.
 Advokát pil. K. tiskl Lenčinu ruku a Lenka se někdy odvážila pohladit K. něžně po vlasech.
 „Ty jsi ještě tady?“ ptal se advokát, když skončil.
 „Chtěla jsem uklidit nádobí,“
-řekla Lenka, stiskli si ještě naposled ruce, advokát si otřel ústa a s novými silami začal mluvit do K. 
+řekla Lenka, stiskli si ještě naposled ruce, advokát si otřel ústa a s novými silami začal mluvit do K.
 Čeho tím chtěl advokát dosáhnout, chtěl ho utěšit, nebo dohnat k zoufalství? K. to nevěděl, byl si však jist, že jeho obhajoba není v dobrých rukou.
 Možná že všechno je pravda, co advokát vypravoval, ačkoli bylo vidět, že se chce co nejvíc stavět do popředí a že pravděpodobně nevedl ještě nikdy tak velký proces, jaký je podle jeho názoru proces K. Podezřelé však zůstávaly ty ustavičně zdůrazňované osobní styky s úředníky.
 Což je tak jisté, že se jich tu využívá výhradně v K.

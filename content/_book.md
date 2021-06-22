@@ -38,16 +38,16 @@ static:
 
 <nav role="doc-toc">
   <ol>
-    <li><a href="proces_006.html">Kapitola první: Zatčení – Rozmluva s paní Grubachovou – Pak slečna Bürstnerová</a></li>
-    <li><a href="proces_007.html">Kapitola druhá: První vyšetřování</a></li>
-    <li><a href="proces_008.html">Kapitola třetí: V&nbsp;prázdné zasedací síni&nbsp;– Student – Kanceláře</a></li>
-    <li><a href="proces_009.html">Kapitola čtvrtá: Přítelkyně slečny Bürstnerové</a></li>
-    <li><a href="proces_010.html">Kapitola pátá: Mrskač</a></li>
-    <li><a href="proces_011.html">Kapitola šestá: Strýček – Lenka</a></li>
-    <li><a href="proces_012.html">Kapitola sedmá: Advokát&nbsp;– Továrník&nbsp;– Malíř</a></li>
-    <li><a href="proces_013.html">Kapitola osmá: Obchodník Block&nbsp;– Výpověď advokátovi</a></li>
-    <li><a href="proces_014.html">Kapitola devátá: V&nbsp;chrámu</a></li>
-    <li><a href="proces_015.html">Kapitola desátá: Konec</a></li>
+    <li><a href="proces_006.html">Kapitola první</a></li>
+    <li><a href="proces_007.html">Kapitola druhá</a></li>
+    <li><a href="proces_008.html">Kapitola třetí</a></li>
+    <li><a href="proces_009.html">Kapitola čtvrtá</a></li>
+    <li><a href="proces_010.html">Kapitola pátá</a></li>
+    <li><a href="proces_011.html">Kapitola šestá</a></li>
+    <li><a href="proces_012.html">Kapitola sedmá</a></li>
+    <li><a href="proces_013.html">Kapitola osmá</a></li>
+    <li><a href="proces_014.html">Kapitola devátá</a></li>
+    <li><a href="proces_015.html">Kapitola desátá</a></li>
     <li>Dodatky
       <ul>
         <li>I: Nedokončené kapitoly

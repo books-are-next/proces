@@ -1,6 +1,8 @@
 ---
-title: "Kapitola druhá: První vyšetřování"
+title: Kapitola druhá
 ---
+
+> První vyšetřování
 
 K. byl telefonicky vyrozuměn, že se příští neděli bude v jeho záležitosti konat jakési předběžné vyšetřování.
 Chtějí ho prý upozornit, že tato vyšetřování budou následovat za sebou pravidelně, i když snad ne každý týden, tedy přece dost často.

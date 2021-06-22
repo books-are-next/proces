@@ -1,6 +1,8 @@
 ---
-title: "Kapitola osmá: Obchodník Block – Výpověď advokátovi"
+title: Kapitola osmá
 ---
+
+> Obchodník Block – Výpověď advokátovi
 
 Konečně se K. přece jen rozhodl, že advokátovi odejme zastupování ve své věci.
 Pochybnosti, zda jedná správně, nedaly se sice zcela umlčet, ale převahy nabylo přesvědčení, že nelze jinak.

@@ -1,8 +1,5 @@
 ---
-title: Next-book boilerplate
+title: "Franz Kafka: Proces"
 ---
 
-## It works!
-
-This is a boilerplate for next-book production.
-
+_Přeložil Pavel Eisner_

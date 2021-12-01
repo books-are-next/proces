@@ -1,7 +1,7 @@
 /* global self, caches, fetch */
 /* eslint-disable no-restricted-globals */
 
-const CACHE = 'cache-c106f23';
+const CACHE = 'cache-ed43b52';
 
 self.addEventListener('install', e => {
   e.waitUntil(precache()).then(() => self.skipWaiting());
@@ -39,7 +39,7 @@ self.addEventListener('activate', event => {
 });
 
 function precache() {
-  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./proces_006.html","./proces_007.html","./proces_008.html","./proces_009.html","./proces_010.html","./proces_011.html","./proces_012.html","./proces_013.html","./proces_014.html","./proces_015.html","./proces_016.html","./proces_017.html","./proces_018.html","./proces_019.html","./proces_020.html","./proces_021.html","./proces_022.html","./proces_023.html","./proces_025.html","./images/image001_fmt.jpeg","./images/image002_fmt.jpeg","./images/obalka_proces_fmt.jpeg","./images/upoutavka_eknihy_fmt.jpeg","./scripts/bundle.js","./style/style.min.css"]));
+  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./proces_006.html","./proces_007.html","./proces_008.html","./proces_009.html","./proces_010.html","./proces_011.html","./proces_012.html","./proces_013.html","./proces_014.html","./proces_015.html","./proces_016.html","./proces_017.html","./proces_018.html","./proces_019.html","./proces_020.html","./proces_021.html","./proces_022.html","./proces_023.html","./proces_025.html","./style/style.min.css","./scripts/bundle.js"]));
 }
 
 self.addEventListener('fetch', e => {

@@ -1,7 +1,7 @@
 /* global self, caches, fetch */
 /* eslint-disable no-restricted-globals */
 
-const CACHE = 'cache-ed43b52';
+const CACHE = 'cache-cc9f039';
 
 self.addEventListener('install', e => {
   e.waitUntil(precache()).then(() => self.skipWaiting());
@@ -39,7 +39,7 @@ self.addEventListener('activate', event => {
 });
 
 function precache() {
-  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./proces_006.html","./proces_007.html","./proces_008.html","./proces_009.html","./proces_010.html","./proces_011.html","./proces_012.html","./proces_013.html","./proces_014.html","./proces_015.html","./proces_016.html","./proces_017.html","./proces_018.html","./proces_019.html","./proces_020.html","./proces_021.html","./proces_022.html","./proces_023.html","./proces_025.html","./style/style.min.css","./scripts/bundle.js"]));
+  return caches.open(CACHE).then(cache => cache.addAll(["./","./favicon.png","./index.html","./colophon.html","./proces_006.html","./manifest.json","./proces_007.html","./proces_008.html","./proces_009.html","./proces_011.html","./proces_010.html","./proces_012.html","./proces_013.html","./proces_014.html","./proces_015.html","./proces_016.html","./proces_017.html","./proces_018.html","./proces_019.html","./proces_020.html","./proces_021.html","./proces_022.html","./proces_023.html","./proces_025.html","./scripts/bundle.js","./style/style.min.css"]));
 }
 
 self.addEventListener('fetch', e => {
